@@ -45,11 +45,14 @@ This file is the complete output of a planning conversation for a **York College
 | Situation | Form | Status |
 |---|---|---|
 | Missing clinical | Absence/appeal letter to APR | Need file |
+| Missing clinical | vSim Clinical Replacement Packet (~23 pages) | Need file — mentioned in chat, not yet obtained |
 | Health clearance | Medical-Physical exam form (incl. immunization history) | ✅ Have it — `Physical_Exam.pdf` |
+| Health clearance | HRSS form (from clinical placement email, sent to Janet Tyson) | Need file — meaning/purpose needs confirming |
 | Switching clinical sites | Transfer request | Need file |
 | Course withdrawal | Schedule Builder / petition (Rm AC-4G04) | Need file/link |
 | Grade appeal | Grade appeal letter | Need file |
 | INC grade | INC extension petition | Need file |
+| Nursing Club candidacy | Nursing Club Officer Form (needs 3 faculty signatures) | Need file |
 
 Each entry: what it's for → who approves it → typical turnaround → download link.
 
@@ -131,7 +134,17 @@ Key dates to surface (not the full grid):
 
 Note: these are college-wide, not nursing-specific, but govern the deadlines nursing students live by. Will need re-gathering each semester — check if the Registrar posts these at a predictable URL so this section can link out instead of needing manual updates.
 
-**9. FAQ** — build from leadership's actual repeat questions (not yet gathered — ask the user)
+**9. FAQ** — build from leadership's actual repeat questions. First real batch gathered from cohort chat patterns (anonymized — no names/numbers, themes only):
+- How does the Prep U / ATI adaptive quiz mastery system actually work? (question set sizes, accuracy thresholds, why progress "doesn't move")
+- Where do I find my Kaplan access link? (comes via school email, easy to miss)
+- Where's the DocuCare access code? (instructor-specific, posted on Brightspace)
+- I bought ShadowHealth directly instead of the free trial — where's my Tina Jones assignment?
+- What is CircleIn and why do I have it? (frequently forgotten/unclear even after being told once)
+- Is a clinical skills "demo + practice" session graded, or just practice?
+- Where do I check if training videos (e.g. PPE/hand hygiene) have been posted yet?
+
+**13. NEW — Tools & Platforms Glossary** *(added based on real chat confusion — not in original plan)*
+One short section per ed-tech tool nursing students are expected to use: what it is, where to access it, and the #1 thing people get confused about. Candidates so far: Prep U/ATI, Kaplan, DocuCare, ShadowHealth, CircleIn, Brightspace (for course-specific postings like training videos). This would meaningfully cut down on repeat chat questions.
 
 **10. Announcements / News Feed**
 
@@ -171,6 +184,80 @@ Deadlines: Generic students' docs due 3rd week of July (fall); RN-BSN students' 
 
 ---
 
+## Source 14: Full Cohort 15 Chat History — 3 chats analyzed (June 2025 – July 2026)
+*Analyzed in full across the main Cohort 15 chat (7,464 msgs), a smaller "OG Cohort 15" side chat (1,451 msgs, Nov 2025–Jul 2026), and a Spring 2026 cohort chat (2,593 msgs, Jan–Jul 2026). All names/numbers stripped — findings below are patterns only, not attributed quotes.*
+
+**⭐ Biggest single finding — validates the whole Start Here concept:**
+Multiple students reported that the "drug test no earlier than 2 weeks before classes" rule was **not clearly stated in the acceptance letter**, only clarified verbally at orientation — by which point several students had already tested too early and had to retake (and repay for) it. This is exactly the kind of costly, preventable confusion this site exists to fix. Strong callout candidate for Start Here.
+
+**Uniform — real logistics not in any official doc:**
+- Worn only for lab/clinical days, not regular lecture (unless lab falls same day) — confirmed repeatedly across all 3 chats, this is clearly a recurring point of confusion every semester
+- Code "York2002" confirmed working (matches handbook)
+- Sizing runs inconsistent — students recommend trying on before committing to sizes across a full uniform set
+- Grooming checks are strict in practice: white socks checked, no insignias, pants/hem length enforced
+- Whites visibly yellow by semester 3 for most people — normal wear, not a compliance issue
+
+**Kaplan (NCLEX readiness tool):**
+- Free — school has a grant covering it, don't let anyone think they need to pay
+- Used every semester; graded 5–10% of course grade depending on the course
+- Access comes via a school email link — if missing, contact the instructor, don't assume it doesn't apply to you
+- **Accommodations timing**: extended-time students see the same countdown as everyone else, but get a "Continue" option instead of forced "Submit" once the standard time expires — the extra time only becomes visible after the original allotted time ends (per cohort experience, worth confirming officially)
+- Retakes are faculty-proctored
+- "Decision tree" video modules just need to be watched and marked complete, not tested
+- Login issues are a recurring complaint — worth a "if Kaplan won't let you log in" troubleshooting note
+
+**Prep U (adaptive quiz system, part of the CoursePoint platform):**
+- Access path: CoursePoint → select your course (e.g., Med Surg) → sidebar → "Prep U" → select chapter
+- Required mastery level varies by course/instructor (e.g., Level 4 required in one course) — not a fixed program-wide number, so don't publish one without confirming per-course
+- Assigned chapter ranges sometimes go beyond what's technically listed in the syllabus — instructor-driven, changes often
+
+**DocuCare (EHR simulation, ~$170):**
+- Comes in duration options (6/12/24 months) — real confusion about which to buy. Given it's used across multiple semesters/courses, buying short-duration options risks it expiring mid-program.
+- Instructor-specific access codes — must get the correct one for your specific lab section, not just any code circulating
+
+**ShadowHealth (virtual patient simulation):**
+- Requires a 16-digit course pin (course + instructor-specific)
+- Has a free trial option, but some students buy directly — those who do sometimes can't find the same assignments (e.g., "Tina Jones" case, HEENT) that trial users see automatically
+- Grade weight unclear to students — worth confirming and publishing
+
+**vSim — a tool not previously documented anywhere:**
+Virtual clinical simulation, used specifically as a **clinical makeup/replacement** option when a student misses a clinical day. A "Student vSim Clinical Replacement Packet" document was circulated (23 pages) — worth requesting a copy for the Forms Library, since missed clinical is otherwise framed in the handbook as strictly not permitted.
+
+**FIT Testing (N95 respirator fit test) — genuinely underdocumented:**
+- **Separate service and separate cost from BLS/CPR** (~$60 extra) — easy to assume it's bundled, it's not
+- Must be **clean-shaven** for men, or you'll be turned away and have to reschedule
+- Masks not always provided — bring your own N95 or buy on-site
+- Some students got it bundled same-day with BLS at outside providers (e.g., via Groupon) — worth listing as a tip
+
+**Flu shot — timing tip + recurring headache:**
+- Must be the **current flu season's** shot specifically — an old one gets rejected
+- Best window per cohort experience: **last week of July through first week of August** — pharmacies often don't stock the new season's shot before that, creating a squeeze against CastleBranch deadlines
+- Insurance coverage varies by pharmacy — some students had to shop around
+
+**Titers — a recurring point of confusion:**
+- Titer = bloodwork showing immunity, used as an alternative to redoing a vaccine series
+- Real confusion over exactly which combination of shots + titer results CastleBranch will accept (e.g., 2 shots + positive titer sometimes accepted in place of a 3rd Hep B dose) — worth a plain-language explainer since this trips people up repeatedly
+
+**Physical Exam form — a specific gotcha:**
+Some outside medical providers won't run a TB test without a physician's order — the CastleBranch physical exam form itself specifies the TB test requirement, so students are advised to **bring the actual form with them** to the appointment rather than just describing the requirement verbally.
+
+**A form not in the original Forms Library list — "HRSS form":**
+Mentioned as arriving via a clinical-placement email from faculty, to be filled out and sent to **Janet Tyson (College Administrative Assistant)**. Likely related to health/clinical readiness sign-off — worth getting the actual document and confirming what HRSS stands for.
+
+**Nursing Club officer candidacy — another real form:**
+"Nursing Club Officer Form" — requires signatures from **3 faculty members** who have personally taught the candidate, submitted to the current officer holding that position before elections. Add to Forms Library.
+
+**Clinical site placement communication:**
+Placement info comes via email from **Janet Tyson (College Administrative Assistant)** — matches the staff directory from the handbook. Placement corrections/updates also come through her. Good to name explicitly on the site as "who to contact about clinical placement."
+
+**Appeals — an emotional/support pattern worth noting, not just a process one:**
+Beyond the formal APR process documented in the handbook, there's a real pattern of students banding together informally after failing a course (commonly Pharm or Med-Surg) to share appeal experiences and support each other. Worth considering whether the Policy Hub's Appeals page could point toward peer support (e.g., Nursing Club) in addition to the formal process — timing note from cohort experience: appeals are pursued right up through the first day of the next semester.
+
+**CircleIn — clarified:**
+Not an academic study tool in practice — the Nursing Club uses it specifically to keep a membership roster/directory, not for coursework. Worth correcting the assumption in the Tools & Platforms glossary.
+
+---
+
 ## Known Content Issues on the Official Site (flag to department, don't just silently fix)
 1. **"Nursing Generic (BS) Application" page displays RN-BS admission criteria** instead of Generic criteria (references RN licensure requirement, junior-year entry) — likely a copy-paste error. Good talking point for why this project matters.
 2. **CastleBranch fee is stale in two places**: handbook says $89.98, live Undergrad Policies page says $65.00 — actual current fee is **$94.18** (confirmed directly, package code UQ29DTIM).
@@ -187,6 +274,38 @@ Deadlines: Generic students' docs due 3rd week of July (fall); RN-BSN students' 
 ## Still Open (not resolved during planning — flag to user early in the Code session)
 - Hosting choice: GitHub Pages vs. Netlify/Vercel vs. undecided
 - Who else needs edit access later (just the user, other officers, or future cohort secretaries) — affects whether a CMS-lite approach is worth it vs. plain static files
-- Real FAQ list (needs to come from the user's actual experience, not a document)
-- Per-clinical-site details beyond address/phone (parking, dress code, tips)
-- Additional forms beyond the physical exam form (absence letters, transfer requests, grade appeal, INC petition)
+- Per-clinical-site details beyond address/phone (parking, dress code, tips) — still mostly open, though "VA hospital" and "Forest Hills" were mentioned in passing in Source 14 without detail
+- Additional forms beyond the physical exam form: absence letters, transfer requests, grade appeal, INC petition, Nursing Club Officer Form (new, found in Source 14 — needs the actual PDF)
+- FAQ: now has a strong real foundation from Source 14 (see Tools & Platforms glossary + FAQ list above) — still worth supplementing with the user's own top questions, but no longer starting from zero
+
+---
+
+## BUILD LOG (added post-launch — status as actually implemented on the live site)
+
+As of this update, the site is live at **https://york-nursing-club.github.io/york-nursing-site/**
+(GitHub org: `york-nursing-club`, repo: `york-nursing-site`). Everything below reflects what's
+actually been built, not just planned:
+
+- ✅ Tier 1 fully built: Policy Hub (real handbook text, not placeholders), Forms Library, Start Here
+- ✅ Most of Tier 2 built: Admission Criteria, Clinical Site Directory (9 confirmed sites incl.
+  Kings County), Faculty & Nursing Club Directory
+- ✅ Academic Calendar (Tier 3) built with key dates
+- ✅ Study Guides page — organized by nursing/clinical semester 1–5 (Generic BS track), shell
+  ready for content, none contributed yet
+- ✅ Externships page (not in original plan) — 13 systems linked: NYC H+H, Jamaica Hospital,
+  Flushing Hospital, VA-STEP, Northwell, NYP, Mount Sinai, NYU Langone, MSK, HSS, Maimonides,
+  Catholic Health (LI), Montefiore
+- ✅ Tools & Platforms Glossary (this update) — Prep U, Kaplan, DocuCare, ShadowHealth, vSim,
+  CircleIn, Brightspace
+- ✅ FAQ page (this update) — 7 real questions from Source 14
+- ✅ Forms Library updated with vSim packet, HRSS form, Nursing Club Officer Form rows
+- ✅ Start Here updated with drug-test callout, FIT test/flu shot/titer/physical-exam gotchas,
+  Janet Tyson as clinical placement contact
+- ✅ Policy Hub updated with real uniform logistics and appeals peer-support note
+- ✅ Site reskinned to York cardinal red/white/gold, branded with the actual Club patch, shield
+  logo/favicon, and campus photos
+- ⬜ Not yet built: Course Plan/Semester Sequence page (Tier 2, item 5), Announcements/News Feed,
+  Prospective Student Landing Page, Accreditation blurb
+- ⬜ Still need actual files for: absence appeal letter, transfer request, grade appeal letter,
+  INC petition, vSim Clinical Replacement Packet, HRSS form, Nursing Club Officer Form
+- ⬜ Clinical Site Directory still needs crowdsourced per-site tips (parking, dress code, transit)
